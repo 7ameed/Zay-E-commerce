@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zay/static/css/main.5c409dc6.css",
+    "main.js": "/Zay/static/js/main.0488beb9.js",
+    "static/media/banner_img_03.jpg": "/Zay/static/media/banner_img_03.0d9ffd328409e57722f8.jpg",
+    "static/media/banner_img_01.jpg": "/Zay/static/media/banner_img_01.f25fd20aed4ce4dc25ca.jpg",
+    "static/media/banner_img_02.jpg": "/Zay/static/media/banner_img_02.83323918e6ff6c004255.jpg",
+    "index.html": "/Zay/index.html",
+    "main.5c409dc6.css.map": "/Zay/static/css/main.5c409dc6.css.map",
+    "main.0488beb9.js.map": "/Zay/static/js/main.0488beb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c409dc6.css",
+    "static/js/main.0488beb9.js"
+  ]
+}
